@@ -4,6 +4,9 @@ package com.example.lie.liekotlin.base
  * Created by lie on 2017/5/18.
  * 测试kotlin基础语法 : 变量和常量
  */
+
+const val CONSTANT : String = "constant" //常量可加const关键字，并放在顶层
+
 class VarAndConstant {
 
     fun main(args: Array<String>) {

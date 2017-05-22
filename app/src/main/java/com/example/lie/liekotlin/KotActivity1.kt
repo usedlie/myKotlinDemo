@@ -31,7 +31,6 @@ class KotActivity1 : AppCompatActivity() {
 
     private fun initData() {
         mOperation =  Operation()
-
     }
 
     /**
