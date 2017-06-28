@@ -95,6 +95,7 @@ class KotActivity1 : AppCompatActivity() ,AnkoLogger{
 
         }
 
+
         btn4_dialog.onClick {
             /**
              * 指定样式的dialog
